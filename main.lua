@@ -6,7 +6,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
    Name = "SHIBUBU V7.5 | OVERLORD",
    LoadingTitle = "Preparing Your Empire...",
-   LoadingSubtitle = "by Shibubu AI",
+   LoadingSubtitle = "by Shibubu",
    ConfigurationSaving = { Enabled = true, FolderName = "ShibubuV7", FileName = "ConcertMode" },
    KeySystem = false 
 })
